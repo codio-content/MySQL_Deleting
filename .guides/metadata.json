@@ -1,0 +1,92 @@
+{
+ "sections": [
+  {
+   "id": "b8d9da0a-9f26-250-a29-94417cb95647",
+   "title": "Recap",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Recap-b8d9.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9ed2c1f8-5441-2f4b-eb68-a3b2433f4c1b",
+   "title": "What we'll learn",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-we-ll-learn-9ed2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3def33d-2340-a664-e0aa-32d2800b14b5",
+   "title": "SQL DELETE",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL-DELETE-3def.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d4fde9ef-194a-5a28-b425-9eb354798da7",
+   "title": "Deleting values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Deleting-values-d4fd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "42999a5f-6124-bff0-33d9-d20c976b8bc3",
+   "title": "Deleting values",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-6-4299.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8cf2e305-10ec-bdd-8b9e-3527a72ba519",
+   "title": "That's all folks",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/That-s-all-folks-8cf2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
