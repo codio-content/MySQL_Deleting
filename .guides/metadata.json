@@ -63,7 +63,40 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-6-4299.md",
+   "content-file": ".guides/content/Deleting-values-4299.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "fae5831c-430e-c816-fe6-efe0569ff450",
+   "title": "Omitting WHERE",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Omitting-WHERE-fae5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c8a9834a-dd00-1a1e-a9b1-573d58e5e866",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-c8a9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1d5ba5be-33b7-703b-6994-f478f89b77db",
+   "title": "Deleting columns",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-9-1d5b.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
