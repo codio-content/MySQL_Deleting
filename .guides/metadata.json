@@ -151,7 +151,73 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-12-d7d7.md",
+   "content-file": ".guides/content/Dropping-tables-d7d7.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b87dadde-9c25-65bb-34f-21efef9b5fef",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-b87d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d886e3c6-3ea5-4790-311c-d5b83292e188",
+   "title": "Truncate table",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Truncate-table-d886.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "47bab283-9a05-bd42-88bb-166b998b57b",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-47ba.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dbb51f2e-3636-17c8-f6da-b436771d4e0a",
+   "title": "Dropping databases",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dropping-databases-dbb5.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
