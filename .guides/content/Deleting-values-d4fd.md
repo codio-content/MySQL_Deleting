@@ -1,3 +1,11 @@
+|||info
+### Reset section database
+If you make a mistake while editing the `hotel` database in this set of sections or just want to reset the database back to its original state, return to this page and click the “Reset Section Database” button below.
+
+{Reset Section Database}(node .guides/sqltests/fw-sql-reset-hotel.js)
+|||
+---
+
 We've created a `hotel` SQL database that has tables that represent part of a _hotel-management_ application.
 
 `USE` the `hotel` database and display its tables.

@@ -25,6 +25,18 @@
    "teacherOnly": false
   },
   {
+   "id": "97ad9d43-e84-7ffc-ea46-f149e3d14c2f",
+   "title": "Resetting the unit's databases",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Resetting-the-unit-s-databases-97ad.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "3def33d-2340-a664-e0aa-32d2800b14b5",
    "title": "SQL DELETE",
    "files": [
@@ -218,6 +230,39 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Dropping-databases-dbb5.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ef1854e3-cd51-7628-edac-48691481295a",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-ef18.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7924fd5-8d9b-5090-24d5-27b037c2c47",
+   "title": "Final challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-18-7924.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
