@@ -103,6 +103,17 @@
    "teacherOnly": false
   },
   {
+   "id": "f7efa19-70f4-439f-a765-9e00120d7b0e",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-f7ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "1d5ba5be-33b7-703b-6994-f478f89b77db",
    "title": "Deleting table columns",
    "files": [
@@ -262,8 +273,30 @@
    "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-18-7924.md",
+   "content-file": ".guides/content/Final-challenges-7924.md",
    "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "61a527da-d689-afd4-c01d-aad5da60443f",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-61a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "32daa494-3d95-614d-ee07-4bc6f4908ab8",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-32da.md",
+   "chapter": false,
    "reset": [],
    "teacherOnly": false
   },

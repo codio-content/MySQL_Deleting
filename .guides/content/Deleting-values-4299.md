@@ -1,4 +1,4 @@
-The guest _Levine, Arden S._ has already checked-out from the hotel and its record needs to be `DELETE`d from the `hotel.guests` table. 
+The guest: _Levine, Arden S._, has already checked-out from the hotel and its record needs to be `DELETE`d from the `hotel.guests` table. 
 
 Guests occupy rooms, so it'd be better to find the room to be deleted by the room number. 
 
@@ -23,4 +23,4 @@ mysql> DELETE FROM hotel.guests
 
 And we've successfully checked _Levine, Arden S._ out. 
 
-Learn about the dangers of omitting the `WHERE` clause in a `DELETE` SQL statement and complete a challenge afterwards.
+Learn about the dangers of omitting the `WHERE` clause in a `DELETE` SQL statement in the next section.

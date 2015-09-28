@@ -1,0 +1,25 @@
+#!/bin/bash
+# workspace-reset file hierarchy
+
+WORKSPACE=/home/codio/workspace/
+arg=$1
+COUNT=9
+
+function init_workspace {
+	echo "Project files have been reseted"
+	sleep 2
+	clear
+}
+
+function reset_workspace {
+	echo "Reseting project files and directories"
+	sleep 2
+	init_workspace
+}
+
+case $arg in
+	workspace ) reset_workspace
+		;;
+	* ) echo "'$arg' doesn't match any available arguments" 
+		;;
+esac
