@@ -3,7 +3,12 @@
   {
    "id": "b8d9da0a-9f26-250-a29-94417cb95647",
    "title": "Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -15,7 +20,12 @@
   {
    "id": "9ed2c1f8-5441-2f4b-eb68-a3b2433f4c1b",
    "title": "What we'll learn",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -27,7 +37,12 @@
   {
    "id": "97ad9d43-e84-7ffc-ea46-f149e3d14c2f",
    "title": "Resetting the unit's databases",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
@@ -43,14 +58,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/SQL-DELETE-3def.md",
@@ -61,7 +71,18 @@
   {
    "id": "d4fde9ef-194a-5a28-b425-9eb354798da7",
    "title": "Deleting values",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Deleting-values-d4fd.md",
@@ -72,7 +93,18 @@
   {
    "id": "42999a5f-6124-bff0-33d9-d20c976b8bc3",
    "title": "Deleting values",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Deleting-values-4299.md",
@@ -83,7 +115,18 @@
   {
    "id": "fae5831c-430e-c816-fe6-efe0569ff450",
    "title": "Omitting WHERE",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Omitting-WHERE-fae5.md",
@@ -94,7 +137,18 @@
   {
    "id": "c8a9834a-dd00-1a1e-a9b1-573d58e5e866",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c8a9.md",
@@ -105,7 +159,18 @@
   {
    "id": "f7efa19-70f4-439f-a765-9e00120d7b0e",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-f7ef.md",
@@ -138,7 +203,13 @@
   {
    "id": "4a897d1a-f1ad-48c0-4fd-66ba14b2c7d",
    "title": "DROP warnings",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/DROP-warnings-4a89.md",
@@ -149,7 +220,18 @@
   {
    "id": "c18398a-a89-ff7e-3f09-d2284e87e1d3",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c183.md",
@@ -182,7 +264,18 @@
   {
    "id": "b87dadde-9c25-65bb-34f-21efef9b5fef",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-b87d.md",
@@ -215,7 +308,18 @@
   {
    "id": "47bab283-9a05-bd42-88bb-166b998b57b",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-47ba.md",
@@ -248,7 +352,18 @@
   {
    "id": "ef1854e3-cd51-7628-edac-48691481295a",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-ef18.md",
@@ -281,7 +396,18 @@
   {
    "id": "61a527da-d689-afd4-c01d-aad5da60443f",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-61a5.md",
@@ -292,7 +418,18 @@
   {
    "id": "32daa494-3d95-614d-ee07-4bc6f4908ab8",
    "title": "Challenge",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: mysql",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-32da.md",
