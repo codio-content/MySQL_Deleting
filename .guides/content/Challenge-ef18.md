@@ -14,6 +14,8 @@ If you make a mistake while editing the `restaurant` database in this set of cha
 
 `USE restaurant;`
 
+Single line statement:
+
 `DROP DATABASE restaurant;`
 
 |||

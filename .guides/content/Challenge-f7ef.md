@@ -6,6 +6,8 @@
 
 `USE bank;`
 
+Single line statement:
+
 `DELETE FROM users;`
 
 |||

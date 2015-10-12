@@ -6,6 +6,8 @@
 
 `USE RE;`
 
+Single line statement:
+
 `TRUNCATE TABLE catalog;`
 
 |||

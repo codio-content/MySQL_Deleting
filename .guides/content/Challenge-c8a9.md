@@ -14,6 +14,15 @@ If you make a mistake while editing the `bank` database in this set of challenge
 
 `USE bank;`
 
+Single line statement:
+
 `DELETE FROM u_accounts WHERE user_id = 414;`
+
+Multi-line statement:
+
+```
+mysql> DELETE FROM u_accounts 
+    -> WHERE user_id = 414;
+```
 
 |||

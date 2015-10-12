@@ -6,6 +6,15 @@
 
 `USE RE;`
 
+Single line statement:
+
 `ALTER TABLE clients DROP property_id;`
+
+Multi-line statement:
+
+```
+mysql> ALTER TABLE clients 
+    -> DROP property_id;
+```
 
 |||

@@ -6,6 +6,8 @@
 
 `USE bank;`
 
+Single line statement:
+
 `TRUNCATE TABLE assets;`
 
 |||
