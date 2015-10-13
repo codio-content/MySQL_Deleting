@@ -1,6 +1,4 @@
-The guest: _Levine, Arden S._, has already checked-out from the hotel and its record needs to be `DELETE`d from the `hotel.guests` table. 
-
-Guests occupy rooms, so it'd be better to find the room to be deleted by the room number. 
+The guest: _Levine, Arden S._, has already checked-out from the hotel and its record needs to be deleted from the `hotel.guests` table. 
 
 Find out the room number of _Levine, Arden S._ by doing a `SELECT * FROM hotel.guests WHERE name = 'Levine, Arden S.';`:
 

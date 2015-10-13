@@ -149,6 +149,23 @@
    "teacherOnly": false
   },
   {
+   "id": "4a897d1a-f1ad-48c0-4fd-66ba14b2c7d",
+   "title": "DROP warnings",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/DROP-warnings-4a89.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "1d5ba5be-33b7-703b-6994-f478f89b77db",
    "title": "Deleting table columns",
    "files": [
@@ -171,37 +188,10 @@
    "teacherOnly": false
   },
   {
-   "id": "4a897d1a-f1ad-48c0-4fd-66ba14b2c7d",
-   "title": "DROP warnings",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    }
-   ],
-   "layout": "1-panel",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/DROP-warnings-4a89.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "c18398a-a89-ff7e-3f09-d2284e87e1d3",
    "title": "Challenge",
-   "files": [
-    {
-     "path": "#tabs",
-     "action": "close"
-    },
-    {
-     "path": "#terminal: mysql",
-     "panel": 0,
-     "action": "open"
-    }
-   ],
-   "layout": "2-panels",
+   "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenge-c183.md",

@@ -1,6 +1,6 @@
-What if we want to __delete the data inside the table but not the table itself?__
+What if we want to delete the data inside the table but not the table itself?
 
-The SQL `TRUNCATE TABLE` statement is designed to accomplish this. 
+Just as when we _omitted `WHERE`_ in section 4.3, the SQL `TRUNCATE TABLE` statement is designed to accomplish this. 
 
 The `hotel` database performance team has decided to remove the data from the `hotel.inventory` table but keep the table for future inventory updates.
 

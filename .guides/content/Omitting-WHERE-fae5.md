@@ -12,4 +12,15 @@ You should see this if you execute a `SELECT * FROM hotel.guests_test;` statemen
 Empty set (0.01 sec)
 ```
 
+|||info
+### What if my intention is to delete the table records and not the table itself?
+
+Good question! 
+
+SQL `TRUNCATE TABLE` statement lets you do just that and we will cover it in future sections. 
+
+Ommitting `WHERE` however, it's not considered a good practice nor a convention.
+
+|||
+
 All right! Complete your first challenge in the next section!

@@ -8,7 +8,9 @@ If you make a mistake while editing the `hostel` database in this set of section
 
 It's time to learn how to get rid of all the data, together with its tables. 
 
-As we mentioned earlier, the `DROP` SQL keyword, part of the SQL _Data Definition Language_ is a very powerful command. Once it has been executed, there is no turning back, unless the necessary backup procedures are made.
+As we mentioned earlier, the `DROP` SQL keyword, part of the SQL _Data Definition Language_ is a very powerful command. Once it has been executed, there is no turning back. 
+
+This is where following good practice and taking regular backups of your databases can help you if you make a mistake. We will cover this in a later unit.
 
 We've created a `hostel` database. 
 Show the available databases with the `SHOW DATABASES;` statement to confirm the existance of the `hostel` database.
