@@ -8,12 +8,12 @@
 
 Single line statement:
 
-`ALTER TABLE users DROP cc_num;`
+`ALTER TABLE u_accounts DROP cc_num;`
 
 Multi-line statement:
 
 ```
-mysql> ALTER TABLE users 
+mysql> ALTER TABLE u_accounts 
     -> DROP cc_num;
 ```
 

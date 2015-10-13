@@ -19,7 +19,7 @@ Good question!
 
 SQL `TRUNCATE TABLE` statement lets you do just that and we will cover it in future sections. 
 
-Ommitting `WHERE` however, it's not considered a good practice nor a convention.
+Omitting `WHERE` however, it's not considered a good practice nor a convention.
 
 |||
 

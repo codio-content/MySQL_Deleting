@@ -36,6 +36,10 @@ var tasks = [
   [
     "'Bank' database",
     'CREATE TABLE bank.assets (id mediumint(8) unsigned NOT NULL auto_increment, PRIMARY KEY (id)) AUTO_INCREMENT=1'
+  ],
+  [
+    "'Bank' database",
+    "INSERT INTO bank.assets (id) VALUES (1)"
   ]
 ];
 

@@ -7,7 +7,7 @@ var sqltest = require("./fw-sqltests.js");
 var tasks = [
   [
     "Remove the cc_num (credit card number) column from the users table",
-    "SELECT cc_num FROM bank.users"
+    "SELECT cc_num FROM bank.u_accounts"
   ]
 ];
 

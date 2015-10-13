@@ -7,7 +7,7 @@ var sqltest = require("./fw-sqltests.js");
 var tasks = [
   [
     "Delete the entire liabilities table",
-    "SELECT * FROM bank.liabilities"
+    "show columns from bank.liabilities"
   ]
 ];
 

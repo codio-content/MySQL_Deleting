@@ -8,10 +8,11 @@ Confirm that the `maintenance` table exists by doing a `SHOW TABLES` in the `hot
 +-----------------+
 | guests          |
 | guests_test     |
+| inventory       |
 | maintenance     |
 | rooms           |
 +-----------------+
-4 rows in set (0.02 sec)
+5 rows in set (0.00 sec)
 ```
 
 Let's `DROP` the `maintenance` table by executing:
@@ -28,7 +29,8 @@ mysql> DROP TABLE hotel.maintenance;
 +-----------------+
 | guests          |
 | guests_test     |
+| inventory       |
 | rooms           |
 +-----------------+
-3 rows in set (0.02 sec)
+4 rows in set (0.00 sec)
 ```

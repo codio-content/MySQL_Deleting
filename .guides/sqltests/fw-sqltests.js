@@ -20,7 +20,8 @@ var tasksArr, connection, count = 0, db;
 function connectTo(db) {
 	connection = mysql.createConnection({
 	  host     : 'localhost',
-	  user     : '',
+	  user     : 'root',
+    password : 'codiop@nel',
 	  // user     : 'root',
 	  // password : 'N3tp0ePl@n',
 	  database : db
@@ -40,14 +41,18 @@ function test(){
 				if (err) {
           console.log('Well done!');
       		process.exit(0); 
+        } else if (rows.length < 1) {
+          console.log('Well done!');
+      		process.exit(0); 
+        } else {
+          // console.log(rows);
+  				count++;
+	  			test(); 
         }
-				// console.log(rows);
-				count++;
-				test();
 			});
 		});
 	} else {
-    errorLogs.queryMismatch(count+1, tasksArr[count-1][0]);
+    errorLogs.queryMismatch(count, tasksArr[count-1][0]);
 	}
 }
 
@@ -58,8 +63,10 @@ function reset(){
 		return new Promise(function(resolve, reject){
 			connectTo(db);
 			connection.query(query, function(err, rows, fields) {
-				if (err)
-					errorLogs.resetFailed(tasksArr[count][0]);
+				if (err) {
+          // console.log(err);
+          errorLogs.resetFailed(tasksArr[count][0]); 
+        }
 				// console.log(rows);
 				count++;
 				reset();

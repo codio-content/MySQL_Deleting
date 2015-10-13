@@ -7,7 +7,7 @@ var sqltest = require("./fw-sqltests.js");
 var tasks = [
   [
     "Drop the entire restaurant database",
-    "SELECT * FROM restaurant"
+    "use restaurant"
   ]
 ];
 
