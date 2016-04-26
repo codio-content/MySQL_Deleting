@@ -1,0 +1,24 @@
+[
+ {
+  "taskId": "test-1381903051",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751799505,
+    "output": "[Error]: Task 1. Expected: Delete the records where user_id equals 414, from the u_accounts table. Try again.",
+    "code": 1
+   }
+  ]
+ },
+ {
+  "taskId": "test-786043834",
+  "points": 0,
+  "results": [
+   {
+    "timestamp": 1444751805397,
+    "output": "[Error]: Task 1. Expected: Delete all the records from the users table. Try again.",
+    "code": 1
+   }
+  ]
+ }
+]
