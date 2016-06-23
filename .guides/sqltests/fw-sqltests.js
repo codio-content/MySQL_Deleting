@@ -6,8 +6,6 @@
 */
 var workspaceDirectory = '/home/codio/workspace/';
 var sqlDir = workspaceDirectory + '.guides/sqltests/';
-// var workspaceDirectory = '/Volumes/Seagate Backup Plus Drive/htdocs/MySQL/CodioSQL.Units/sqlx/';
-// var sqlDir = workspaceDirectory + '.guides/sqltests/';
 
 var mysql       = require('mysql'),
 		fs          = require('fs'),
@@ -21,9 +19,7 @@ function connectTo(db) {
 	connection = mysql.createConnection({
 	  host     : 'localhost',
 	  user     : 'root',
-    password : 'codiop@nel',
-	  // user     : 'root',
-	  // password : 'N3tp0ePl@n',
+    password : 'codio',
 	  database : db
 	});
 	connection.connect();
@@ -31,8 +27,6 @@ function connectTo(db) {
 
 // Test environment
 function test(){
-	// console.log(count);
-	// console.log(`Testing: ${tasksArr[count][1]}. Task: ${count+1}`);
 	if (count < tasksArr.length) {
 		var query = tasksArr[count][1];
 		return new Promise(function(resolve, reject){
