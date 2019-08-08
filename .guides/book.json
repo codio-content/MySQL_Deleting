@@ -1,0 +1,154 @@
+{
+ "name": "MySQL-Deleting_databases-_dropping_tables_and_deleting_data",
+ "children": [
+  {
+   "title": "Recap",
+   "id": "b8d9da0a-9f26-250-a29-94417cb95647",
+   "pageId": "b8d9da0a-9f26-250-a29-94417cb95647",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "What we'll learn",
+   "id": "9ed2c1f8-5441-2f4b-eb68-a3b2433f4c1b",
+   "pageId": "9ed2c1f8-5441-2f4b-eb68-a3b2433f4c1b",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Resetting the unit's databases",
+   "id": "97ad9d43-e84-7ffc-ea46-f149e3d14c2f",
+   "pageId": "97ad9d43-e84-7ffc-ea46-f149e3d14c2f",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "SQL DELETE",
+   "id": "3def33d-2340-a664-e0aa-32d2800b14b5",
+   "pageId": "3def33d-2340-a664-e0aa-32d2800b14b5",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Deleting values",
+     "id": "d4fde9ef-194a-5a28-b425-9eb354798da7",
+     "pageId": "d4fde9ef-194a-5a28-b425-9eb354798da7",
+     "type": "page"
+    },
+    {
+     "title": "Deleting values",
+     "id": "42999a5f-6124-bff0-33d9-d20c976b8bc3",
+     "pageId": "42999a5f-6124-bff0-33d9-d20c976b8bc3",
+     "type": "page"
+    },
+    {
+     "title": "Omitting WHERE",
+     "id": "fae5831c-430e-c816-fe6-efe0569ff450",
+     "pageId": "fae5831c-430e-c816-fe6-efe0569ff450",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "c8a9834a-dd00-1a1e-a9b1-573d58e5e866",
+     "pageId": "c8a9834a-dd00-1a1e-a9b1-573d58e5e866",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "f7efa19-70f4-439f-a765-9e00120d7b0e",
+     "pageId": "f7efa19-70f4-439f-a765-9e00120d7b0e",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "DROP warnings",
+   "id": "4a897d1a-f1ad-48c0-4fd-66ba14b2c7d",
+   "pageId": "4a897d1a-f1ad-48c0-4fd-66ba14b2c7d",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Deleting table columns",
+   "id": "1d5ba5be-33b7-703b-6994-f478f89b77db",
+   "pageId": "1d5ba5be-33b7-703b-6994-f478f89b77db",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "c18398a-a89-ff7e-3f09-d2284e87e1d3",
+     "pageId": "c18398a-a89-ff7e-3f09-d2284e87e1d3",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Dropping tables",
+   "id": "d7d718-a006-6887-8-5032217eee34",
+   "pageId": "d7d718-a006-6887-8-5032217eee34",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "b87dadde-9c25-65bb-34f-21efef9b5fef",
+     "pageId": "b87dadde-9c25-65bb-34f-21efef9b5fef",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Truncate table",
+   "id": "d886e3c6-3ea5-4790-311c-d5b83292e188",
+   "pageId": "d886e3c6-3ea5-4790-311c-d5b83292e188",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "47bab283-9a05-bd42-88bb-166b998b57b",
+     "pageId": "47bab283-9a05-bd42-88bb-166b998b57b",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Dropping databases",
+   "id": "dbb51f2e-3636-17c8-f6da-b436771d4e0a",
+   "pageId": "dbb51f2e-3636-17c8-f6da-b436771d4e0a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "ef1854e3-cd51-7628-edac-48691481295a",
+     "pageId": "ef1854e3-cd51-7628-edac-48691481295a",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Final challenges",
+   "id": "7924fd5-8d9b-5090-24d5-27b037c2c47",
+   "pageId": "7924fd5-8d9b-5090-24d5-27b037c2c47",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Challenge",
+     "id": "61a527da-d689-afd4-c01d-aad5da60443f",
+     "pageId": "61a527da-d689-afd4-c01d-aad5da60443f",
+     "type": "page"
+    },
+    {
+     "title": "Challenge",
+     "id": "32daa494-3d95-614d-ee07-4bc6f4908ab8",
+     "pageId": "32daa494-3d95-614d-ee07-4bc6f4908ab8",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "That's all folks",
+   "id": "8cf2e305-10ec-bdd-8b9e-3527a72ba519",
+   "pageId": "8cf2e305-10ec-bdd-8b9e-3527a72ba519",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
